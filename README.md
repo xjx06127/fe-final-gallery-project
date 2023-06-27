@@ -5,7 +5,7 @@
 ## ❍ 목표
 
 - 실제 동작하는 간단한 멀티페이지 웹 어플리케이션을 개발할 수 있다.
-- 백엔드와 데이터를 주고받기 위한 axios로 REST API 통신을 능숙하게 다룰 수 있다. (해커톤에서 씁니다)
+- 백엔드와 데이터를 주고받기 위한 axios로 REST API 통신을 능숙하게 다룰 수 있다.
 
 ## ❍ project stack
 
@@ -17,7 +17,7 @@
 
 > 접속해서 직접 기능을 사용해볼 수 있습니다.
 
-http://likelion-10th-inha-gallery.surge.sh
+https://fe-final-gallery-project.pages.dev/
 
 ## ❍ 기능
 
@@ -58,8 +58,8 @@ http://likelion-10th-inha-gallery.surge.sh
 
 요청을 위한 호스트 정보와 문서는 아래와 같습니다.
 
-- **HOST**: https://gallery.devhudi.xyz
-- **DOCS** : https://gallery.devhudi.xyz/swagger-ui/index.html
+- **HOST**: https://gallery.jmoomin.com
+- **DOCS** : http://43.201.95.115:8080/swagger-ui/index.html#/GalleryController
 
 ## 참고자료
 
@@ -71,7 +71,7 @@ http://likelion-10th-inha-gallery.surge.sh
 
 ## ❍ 완성한 코드
 
-- https://github.com/Likelion-Inha-10/fe-gallery-project-example
+- https://github.com/Likelion-Inha-11/fe-final-gallery-project-complete
 
 > 예제 코드는 과제 중 자유롭게 참고 가능하지만, 최대한 본인의 힘으로 해결하려 노력합시다 😇
 
