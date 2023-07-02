@@ -1,6 +1,6 @@
 ## 동작 영상
 
-<img width="80%" src="https://github.com/xjx06127/likelion_git/assets/111687549/ea6724a7-efbb-4daf-87f1-3304a40a4500"/>
+https://github.com/xjx06127/likelion_git/assets/111687549/ea6724a7-efbb-4daf-87f1-3304a40a4500
 
 ## 프로젝트 후기
 
